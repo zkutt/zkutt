@@ -1,4 +1,6 @@
 ## Hi there 👋
 
 - Age: **16**
-- Langs: **Py/JS**
+- Langs: **Py**
+- Languages: **English**
+- Learning: **JavaScript**
